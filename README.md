@@ -2,6 +2,8 @@
 - 🔭 I'm currently studying in Northeastern University (China),
 - 🌱 I’m currently learning back-end,
 - 💬 I aspire to become a back-end engineer .
+  \
+  ![image](\img\屏幕截图 2025-01-23 111517.png)
 <!--
 **Lyrelyn/Lyrelyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
