@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning back-end,
 - 💬 I aspire to become a back-end engineer .
   \
+  \
+  \
   ![image](/img/pic1.png)
 <!--
 **Lyrelyn/Lyrelyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
