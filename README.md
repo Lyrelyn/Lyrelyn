@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🔭 I'm currently studying in Northeastern University (China),
 - 🌱 I’m currently learning back-end,
-- 💬 I aspire to become a back-end engineer and a product manager，
+- 💬 I aspire to become a back-end engineer .
 <!--
 **Lyrelyn/Lyrelyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
